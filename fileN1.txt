@@ -1,2 +1,5 @@
-new branch created named first named first branch
+new branch created named first named firstbranch
 first file of first branch
+
+merged firstbranch into master
+AND this file will be modified into firstbranch
